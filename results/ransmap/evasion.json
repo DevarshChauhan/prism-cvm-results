@@ -1,0 +1,140 @@
+{
+ "threshold": 0.9667025994364874,
+ "n_benign_runs": 30,
+ "n_ransom_runs": 30,
+ "benign_runs_alarmed": 0,
+ "none": {
+  "auroc": 0.971775209486423,
+  "runs_detected": 30,
+  "runs": 30,
+  "segments_alerting": 0.7407407407407407
+ },
+ "delay": {
+  "auroc": 0.9605858198318966,
+  "runs_detected": 29,
+  "runs": 30,
+  "segments_alerting": 0.652321630804077
+ },
+ "out_of_place": {
+  "auroc": 0.9667199018197481,
+  "runs_detected": 30,
+  "runs": 30,
+  "segments_alerting": 0.6762246117084827
+ },
+ "shuffle": {
+  "auroc": 0.9706800282837149,
+  "runs_detected": 30,
+  "runs": 30,
+  "segments_alerting": 0.7311827956989247
+ },
+ "throttle": {
+  "auroc": 0.9618725970282059,
+  "runs_detected": 30,
+  "runs": 30,
+  "segments_alerting": 0.7551922227132125
+ },
+ "combined": {
+  "auroc": 0.9584479318341154,
+  "runs_detected": 29,
+  "runs": 30,
+  "segments_alerting": 0.638731596828992
+ },
+ "concurrency": {
+  "pairs": [
+   {
+    "pair": "AESCrypt+Firefox",
+    "segments": 18,
+    "alerting": 1,
+    "alarm": false
+   },
+   {
+    "pair": "AESCrypt+Idle",
+    "segments": 15,
+    "alerting": 1,
+    "alarm": false
+   },
+   {
+    "pair": "AESCrypt+Office",
+    "segments": 22,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "AESCrypt+SDelete",
+    "segments": 3,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "AESCrypt+Zip",
+    "segments": 12,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "Firefox+Idle",
+    "segments": 56,
+    "alerting": 4,
+    "alarm": false
+   },
+   {
+    "pair": "Firefox+Office",
+    "segments": 70,
+    "alerting": 4,
+    "alarm": false
+   },
+   {
+    "pair": "Firefox+SDelete",
+    "segments": 3,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "Firefox+Zip",
+    "segments": 16,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "Idle+Office",
+    "segments": 34,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "Idle+SDelete",
+    "segments": 3,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "Idle+Zip",
+    "segments": 10,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "Office+SDelete",
+    "segments": 3,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "Office+Zip",
+    "segments": 18,
+    "alerting": 0,
+    "alarm": false
+   },
+   {
+    "pair": "SDelete+Zip",
+    "segments": 3,
+    "alerting": 0,
+    "alarm": false
+   }
+  ],
+  "pairs_alarmed": 0,
+  "n_pairs": 15,
+  "segments": 286,
+  "segments_alerting": 10
+ }
+}

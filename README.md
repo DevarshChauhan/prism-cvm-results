@@ -17,6 +17,9 @@ results/ransmap/
   lofo_t48.json                  held-out ransomware families and held-out benign programs (3 seeds)
   leak_t48.json                  per-window noise: detector AUROC and attacker accuracy (5 seeds)
   ow_by_program.json             rewrite-after-read fraction per program
+  runlevel_unique.json           run-level alarms counted over unique runs, exact intervals, thresholds
+  evasion.json                   simulated evasion and merged benign traces (transformed recorded metadata)
+  enroll.json                    benign enrollment and lower thresholds for held-out families
   predictions_main.csv.gz        per-segment label, score and threshold for every seed, feature group and test
   environment_wsl.txt            software versions
 results/cvm_snp/, results/cvm_tdx/
@@ -37,16 +40,18 @@ The 530 runs are every run available in five RanSMAP configurations: ten per pro
 
 | Paper item | File and field |
 |---|---|
-| Table 4 and Fig. 2 (segment AUROC), bootstrap differences | `results/ransmap/main_t48_common.json`: `summary.<group>.<test>.auroc`, `boot_loc_minus_mem` |
+| Table 5 and Fig. 2 (segment AUROC), bootstrap differences | `results/ransmap/main_t48_common.json`: `summary.<group>.<test>.auroc`, `boot_loc_minus_mem` |
 | Analysis-horizon check | `results/ransmap/main_t48_storage.json` |
-| Table 5 (rewrite-after-read per program) | `results/ransmap/ow_by_program.json` |
-| Table 6 (run-level alarms) and Table 7 (alarm-rule sensitivity) | `main_t48_common.json`: `summary.<group>.<test>.<rule>` |
+| Table 6 (rewrite-after-read per program) | `results/ransmap/ow_by_program.json` |
+| Table 7 (run-level alarms, unique runs) and Table 8 (alarm-rule sensitivity) | `results/ransmap/runlevel_unique.json`: `<group>.<split>.<rule>`; per-seed values in `main_t48_common.json` |
 | Feature importance | `main_t48_common.json`: `importance_mix_storage+loc` |
-| Table 8 (held-out families and programs) | `results/ransmap/lofo_t48.json` |
-| Table 9 and Fig. 3 (F1) | `results/ransmap/f1_t300.json`, `f1_t48.json` |
-| Fig. 4 and Table 10 (real CVMs) | `results/cvm_snp/summary_v2.json`, `results/cvm_tdx/summary_v2.json` |
-| Table 11 (noise and attacker) | `results/ransmap/leak_t48.json` |
-| Table 12 and host-collector results | `results/host_collector/summary_host.json`, `results/host_collector_3h/summary_host.json` |
+| Table 9 (held-out families and programs) | `results/ransmap/lofo_t48.json` |
+| Table 10 (simulated evasion) and concurrent benign load | `results/ransmap/evasion.json` |
+| Table 11 (benign enrollment) and lower thresholds for held-out families | `results/ransmap/enroll.json` |
+| Table 12 and Fig. 3 (F1) | `results/ransmap/f1_t300.json`, `f1_t48.json` |
+| Fig. 4 and Table 13 (real CVMs) | `results/cvm_snp/summary_v2.json`, `results/cvm_tdx/summary_v2.json` |
+| Table 14 (noise and attacker) | `results/ransmap/leak_t48.json` |
+| Table 15 and host-collector results | `results/host_collector/summary_host.json`, `results/host_collector_3h/summary_host.json` |
 | Any AUROC or alarm count, recomputed independently | `results/ransmap/predictions_main.csv.gz` |
 
 Feature groups: `storage`, `storage+loc`, `storage+mem`, `storage+loc+mem`, `memory`. Tests: `test_iid` (same hardware), `test_hw` (new hardware), `test_mix` (ransomware with benign applications), `test_variant` (Conti variants). Alarm rules: `slideKofN` (alarm when K of the last N segments alert) and `cum3` (3 alerts counted from the start of the run).
