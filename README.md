@@ -1,4 +1,4 @@
-# Results: Detecting Ransomware in Confidential Virtual Machines from Content-Free Host Telemetry
+# Results: Host-Side Ransomware Detection for AMD SEV-SNP and Intel TDX Confidential Virtual Machines Using Block I/O Request Metadata
 
 Author: Devarsh Chauhan, Department of Information Technology, Shantilal Shah Engineering College, Bhavnagar, India.
 
