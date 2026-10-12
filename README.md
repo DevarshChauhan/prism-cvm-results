@@ -8,7 +8,7 @@ This repository holds the results and raw logs behind every number, table and fi
 
 ```
 runs/
-  ransmap_subset_manifest.json   the 272 RanSMAP runs used and their split (train_a, train_b, hw_shift, mix, variants)
+  ransmap_subset_manifest.json   the 530 RanSMAP runs used and their split (train_a, train_b, hw_shift, mix, variants)
   ransmap_files.json             the RanSMAP files those runs consist of
 results/ransmap/
   main_t48_common.json           AUROC, PR-AUC, run-level alarms for all rules, bootstrap differences, importance (5 seeds)
@@ -29,7 +29,7 @@ results/host_collector/
 
 ## Splits and seeds
 
-The 272 runs were drawn from RanSMAP with `random.Random(2026)`: six runs per program on each of two memory configurations of the main machine, five per program on a second machine, four per mixed pair and four per Conti variant, using the first 6 MB of each CSV file. In-distribution runs are shuffled with `numpy.random.default_rng(seed)` for seeds 0 to 4 (0 to 19 for F1, 0 to 2 for held-out tests) and split 70/15/15 by run. The mix and variant tests are scored against the benign test runs of the DDR4-2133 configuration.
+The 530 runs are every run available in five RanSMAP configurations: ten per program on each of two memory configurations of the main machine, ten per program on a second machine, ten per mixed pair and ten per Conti variant, using the first 6 MB of each CSV file. In-distribution runs are shuffled with `numpy.random.default_rng(seed)` for seeds 0 to 4 (0 to 19 for F1, 0 to 2 for held-out tests) and split 70/15/15 by run. The mix and variant tests are scored against the benign test runs of the DDR4-2133 configuration.
 
 ## Mapping from the paper to files
 

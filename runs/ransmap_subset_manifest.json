@@ -5,6 +5,31 @@
   "program": "AESCrypt_Conti"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_Conti/AESCrypt_Conti-20240229_23-54-19",
+  "split": "mix",
+  "program": "AESCrypt_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_Conti/AESCrypt_Conti-20240301_00-01-13",
+  "split": "mix",
+  "program": "AESCrypt_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_Conti/AESCrypt_Conti-20240301_00-19-20",
+  "split": "mix",
+  "program": "AESCrypt_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_Conti/AESCrypt_Conti-20240301_00-25-27",
+  "split": "mix",
+  "program": "AESCrypt_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_Conti/AESCrypt_Conti-20240301_00-31-04",
+  "split": "mix",
+  "program": "AESCrypt_Conti"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_Conti/AESCrypt_Conti-20240301_00-37-31",
   "split": "mix",
   "program": "AESCrypt_Conti"
@@ -20,6 +45,11 @@
   "program": "AESCrypt_Conti"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_Conti/AESCrypt_Conti-20240301_00-56-41",
+  "split": "mix",
+  "program": "AESCrypt_Conti"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_REvil/AESCrypt_REvil-20240329_02-32-51",
   "split": "mix",
   "program": "AESCrypt_REvil"
@@ -30,7 +60,27 @@
   "program": "AESCrypt_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_REvil/AESCrypt_REvil-20240329_02-44-18",
+  "split": "mix",
+  "program": "AESCrypt_REvil"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_REvil/AESCrypt_REvil-20240329_02-50-41",
+  "split": "mix",
+  "program": "AESCrypt_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_REvil/AESCrypt_REvil-20240329_02-56-40",
+  "split": "mix",
+  "program": "AESCrypt_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_REvil/AESCrypt_REvil-20240329_03-04-00",
+  "split": "mix",
+  "program": "AESCrypt_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_REvil/AESCrypt_REvil-20240329_03-09-33",
   "split": "mix",
   "program": "AESCrypt_REvil"
  },
@@ -38,6 +88,21 @@
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_REvil/AESCrypt_REvil-20240329_03-14-40",
   "split": "mix",
   "program": "AESCrypt_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_REvil/AESCrypt_REvil-20240329_03-20-11",
+  "split": "mix",
+  "program": "AESCrypt_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/AESCrypt_REvil/AESCrypt_REvil-20240329_03-25-40",
+  "split": "mix",
+  "program": "AESCrypt_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Conti/Firefox_Conti-20240329_21-27-14",
+  "split": "mix",
+  "program": "Firefox_Conti"
  },
  {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Conti/Firefox_Conti-20240329_21-40-18",
@@ -55,9 +120,44 @@
   "program": "Firefox_Conti"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Conti/Firefox_Conti-20240329_22-03-11",
+  "split": "mix",
+  "program": "Firefox_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Conti/Firefox_Conti-20240329_22-11-25",
+  "split": "mix",
+  "program": "Firefox_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Conti/Firefox_Conti-20240329_22-23-25",
+  "split": "mix",
+  "program": "Firefox_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Conti/Firefox_Conti-20240329_22-38-31",
+  "split": "mix",
+  "program": "Firefox_Conti"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Conti/Firefox_Conti-20240329_22-44-49",
   "split": "mix",
   "program": "Firefox_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Conti/Firefox_Conti-20240329_22-50-11",
+  "split": "mix",
+  "program": "Firefox_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Office_REvil/Firefox_Office_REvil-20240305_01-09-26",
+  "split": "mix",
+  "program": "Firefox_Office_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Office_REvil/Firefox_Office_REvil-20240305_01-19-18",
+  "split": "mix",
+  "program": "Firefox_Office_REvil"
  },
  {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Office_REvil/Firefox_Office_REvil-20240305_01-24-50",
@@ -75,12 +175,42 @@
   "program": "Firefox_Office_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Office_REvil/Firefox_Office_REvil-20240305_01-55-55",
+  "split": "mix",
+  "program": "Firefox_Office_REvil"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Office_REvil/Firefox_Office_REvil-20240305_02-08-30",
   "split": "mix",
   "program": "Firefox_Office_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Office_REvil/Firefox_Office_REvil-20240305_02-18-06",
+  "split": "mix",
+  "program": "Firefox_Office_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Office_REvil/Firefox_Office_REvil-20240305_02-24-02",
+  "split": "mix",
+  "program": "Firefox_Office_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_Office_REvil/Firefox_Office_REvil-20240305_02-30-20",
+  "split": "mix",
+  "program": "Firefox_Office_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_REvil/Firefox_REvil-20240304_23-51-45",
+  "split": "mix",
+  "program": "Firefox_REvil"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_REvil/Firefox_REvil-20240304_23-57-14",
+  "split": "mix",
+  "program": "Firefox_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_REvil/Firefox_REvil-20240305_00-02-52",
   "split": "mix",
   "program": "Firefox_REvil"
  },
@@ -90,7 +220,22 @@
   "program": "Firefox_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_REvil/Firefox_REvil-20240305_00-13-14",
+  "split": "mix",
+  "program": "Firefox_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_REvil/Firefox_REvil-20240305_00-18-50",
+  "split": "mix",
+  "program": "Firefox_REvil"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_REvil/Firefox_REvil-20240305_00-24-19",
+  "split": "mix",
+  "program": "Firefox_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_REvil/Firefox_REvil-20240305_00-29-29",
   "split": "mix",
   "program": "Firefox_REvil"
  },
@@ -100,12 +245,27 @@
   "program": "Firefox_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Firefox_REvil/Firefox_REvil-20240305_00-40-39",
+  "split": "mix",
+  "program": "Firefox_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Office_REvil/Office_REvil-20240304_22-38-02",
+  "split": "mix",
+  "program": "Office_REvil"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Office_REvil/Office_REvil-20240304_22-44-45",
   "split": "mix",
   "program": "Office_REvil"
  },
  {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Office_REvil/Office_REvil-20240304_22-50-21",
+  "split": "mix",
+  "program": "Office_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Office_REvil/Office_REvil-20240304_22-56-20",
   "split": "mix",
   "program": "Office_REvil"
  },
@@ -120,7 +280,52 @@
   "program": "Office_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Office_REvil/Office_REvil-20240304_23-16-44",
+  "split": "mix",
+  "program": "Office_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Office_REvil/Office_REvil-20240304_23-25-46",
+  "split": "mix",
+  "program": "Office_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Office_REvil/Office_REvil-20240304_23-31-39",
+  "split": "mix",
+  "program": "Office_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Office_REvil/Office_REvil-20240304_23-38-25",
+  "split": "mix",
+  "program": "Office_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_Conti/SDelete_Conti-20240304_20-34-10",
+  "split": "mix",
+  "program": "SDelete_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_Conti/SDelete_Conti-20240304_20-39-30",
+  "split": "mix",
+  "program": "SDelete_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_Conti/SDelete_Conti-20240304_20-46-50",
+  "split": "mix",
+  "program": "SDelete_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_Conti/SDelete_Conti-20240304_21-08-11",
+  "split": "mix",
+  "program": "SDelete_Conti"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_Conti/SDelete_Conti-20240304_21-14-09",
+  "split": "mix",
+  "program": "SDelete_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_Conti/SDelete_Conti-20240304_21-20-12",
   "split": "mix",
   "program": "SDelete_Conti"
  },
@@ -140,12 +345,37 @@
   "program": "SDelete_Conti"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_Conti/SDelete_Conti-20240304_21-41-22",
+  "split": "mix",
+  "program": "SDelete_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_REvil/SDelete_REvil-20240329_18-59-24",
+  "split": "mix",
+  "program": "SDelete_REvil"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_REvil/SDelete_REvil-20240329_19-05-16",
   "split": "mix",
   "program": "SDelete_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_REvil/SDelete_REvil-20240329_19-10-36",
+  "split": "mix",
+  "program": "SDelete_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_REvil/SDelete_REvil-20240329_19-16-40",
+  "split": "mix",
+  "program": "SDelete_REvil"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_REvil/SDelete_REvil-20240329_19-25-16",
+  "split": "mix",
+  "program": "SDelete_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_REvil/SDelete_REvil-20240329_19-31-21",
   "split": "mix",
   "program": "SDelete_REvil"
  },
@@ -160,12 +390,47 @@
   "program": "SDelete_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_REvil/SDelete_REvil-20240329_19-53-27",
+  "split": "mix",
+  "program": "SDelete_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/SDelete_REvil/SDelete_REvil-20240329_19-59-02",
+  "split": "mix",
+  "program": "SDelete_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_Conti/Zip_Conti-20240302_05-04-22",
+  "split": "mix",
+  "program": "Zip_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_Conti/Zip_Conti-20240302_05-12-43",
+  "split": "mix",
+  "program": "Zip_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_Conti/Zip_Conti-20240302_05-19-37",
+  "split": "mix",
+  "program": "Zip_Conti"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_Conti/Zip_Conti-20240302_05-26-36",
   "split": "mix",
   "program": "Zip_Conti"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_Conti/Zip_Conti-20240302_05-35-00",
+  "split": "mix",
+  "program": "Zip_Conti"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_Conti/Zip_Conti-20240302_05-54-18",
+  "split": "mix",
+  "program": "Zip_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_Conti/Zip_Conti-20240302_06-00-24",
   "split": "mix",
   "program": "Zip_Conti"
  },
@@ -180,7 +445,27 @@
   "program": "Zip_Conti"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_Conti/Zip_Conti-20240302_06-22-44",
+  "split": "mix",
+  "program": "Zip_Conti"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_REvil/Zip_REvil-20240329_03-39-08",
+  "split": "mix",
+  "program": "Zip_REvil"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_REvil/Zip_REvil-20240329_03-44-14",
+  "split": "mix",
+  "program": "Zip_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_REvil/Zip_REvil-20240329_03-51-52",
+  "split": "mix",
+  "program": "Zip_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_REvil/Zip_REvil-20240329_03-57-23",
   "split": "mix",
   "program": "Zip_REvil"
  },
@@ -190,7 +475,17 @@
   "program": "Zip_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_REvil/Zip_REvil-20240329_04-11-56",
+  "split": "mix",
+  "program": "Zip_REvil"
+ },
+ {
   "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_REvil/Zip_REvil-20240329_04-22-48",
+  "split": "mix",
+  "program": "Zip_REvil"
+ },
+ {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_REvil/Zip_REvil-20240329_04-28-15",
   "split": "mix",
   "program": "Zip_REvil"
  },
@@ -200,12 +495,27 @@
   "program": "Zip_REvil"
  },
  {
+  "run": "dataset/mix/i3-gen12/ddr4-2133-16g/Zip_REvil/Zip_REvil-20240329_04-40-25",
+  "split": "mix",
+  "program": "Zip_REvil"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/AESCrypt/AESCrypt-20230928_13-47-37",
   "split": "hw_shift",
   "program": "AESCrypt"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/AESCrypt/AESCrypt-20230928_13-56-16",
+  "split": "hw_shift",
+  "program": "AESCrypt"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/AESCrypt/AESCrypt-20230928_14-05-51",
+  "split": "hw_shift",
+  "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/AESCrypt/AESCrypt-20230928_14-15-03",
   "split": "hw_shift",
   "program": "AESCrypt"
  },
@@ -220,9 +530,29 @@
   "program": "AESCrypt"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/AESCrypt/AESCrypt-20230928_14-58-06",
+  "split": "hw_shift",
+  "program": "AESCrypt"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/AESCrypt/AESCrypt-20230928_15-25-15",
   "split": "hw_shift",
   "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/AESCrypt/AESCrypt-20230928_15-31-24",
+  "split": "hw_shift",
+  "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/AESCrypt/AESCrypt-20231013_11-51-40",
+  "split": "hw_shift",
+  "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Conti/Conti-20231012_13-49-13",
+  "split": "hw_shift",
+  "program": "Conti"
  },
  {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Conti/Conti-20231012_13-56-45",
@@ -235,12 +565,32 @@
   "program": "Conti"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Conti/Conti-20231012_14-10-11",
+  "split": "hw_shift",
+  "program": "Conti"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Conti/Conti-20231012_14-17-32",
   "split": "hw_shift",
   "program": "Conti"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Conti/Conti-20231012_14-24-07",
+  "split": "hw_shift",
+  "program": "Conti"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Conti/Conti-20231012_14-30-57",
+  "split": "hw_shift",
+  "program": "Conti"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Conti/Conti-20231012_14-37-01",
+  "split": "hw_shift",
+  "program": "Conti"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Conti/Conti-20231012_14-43-25",
   "split": "hw_shift",
   "program": "Conti"
  },
@@ -251,6 +601,11 @@
  },
  {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Darkside/Darkside-20231011_10-59-46",
+  "split": "hw_shift",
+  "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Darkside/Darkside-20231011_11-06-16",
   "split": "hw_shift",
   "program": "Darkside"
  },
@@ -270,9 +625,39 @@
   "program": "Darkside"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Darkside/Darkside-20231011_11-34-06",
+  "split": "hw_shift",
+  "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Darkside/Darkside-20231011_11-40-02",
+  "split": "hw_shift",
+  "program": "Darkside"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Darkside/Darkside-20231011_11-46-48",
   "split": "hw_shift",
   "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Darkside/Darkside-20231011_11-53-24",
+  "split": "hw_shift",
+  "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Darkside/Darkside-20231011_11-59-15",
+  "split": "hw_shift",
+  "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Firefox/Firefox-20231108_10-53-27",
+  "split": "hw_shift",
+  "program": "Firefox"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Firefox/Firefox-20231108_11-00-08",
+  "split": "hw_shift",
+  "program": "Firefox"
  },
  {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Firefox/Firefox-20231108_11-17-56",
@@ -290,7 +675,22 @@
   "program": "Firefox"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Firefox/Firefox-20231108_11-34-42",
+  "split": "hw_shift",
+  "program": "Firefox"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Firefox/Firefox-20231108_11-40-09",
+  "split": "hw_shift",
+  "program": "Firefox"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Firefox/Firefox-20231108_11-45-41",
+  "split": "hw_shift",
+  "program": "Firefox"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Firefox/Firefox-20231108_11-51-18",
   "split": "hw_shift",
   "program": "Firefox"
  },
@@ -305,6 +705,11 @@
   "program": "Idle"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Idle/Idle-20231004_13-44-38",
+  "split": "hw_shift",
+  "program": "Idle"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Idle/Idle-20231004_13-51-08",
   "split": "hw_shift",
   "program": "Idle"
@@ -315,12 +720,32 @@
   "program": "Idle"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Idle/Idle-20231004_14-02-43",
+  "split": "hw_shift",
+  "program": "Idle"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Idle/Idle-20231004_14-08-14",
+  "split": "hw_shift",
+  "program": "Idle"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Idle/Idle-20231004_14-13-26",
   "split": "hw_shift",
   "program": "Idle"
  },
  {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Idle/Idle-20231004_14-18-24",
+  "split": "hw_shift",
+  "program": "Idle"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Idle/Idle-20231004_14-23-44",
+  "split": "hw_shift",
+  "program": "Idle"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Idle/Idle-20231004_14-29-00",
   "split": "hw_shift",
   "program": "Idle"
  },
@@ -340,7 +765,32 @@
   "program": "LockBit"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/LockBit/LockBit-20231025_11-21-00",
+  "split": "hw_shift",
+  "program": "LockBit"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/LockBit/LockBit-20231025_11-27-06",
+  "split": "hw_shift",
+  "program": "LockBit"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/LockBit/LockBit-20231025_11-33-26",
+  "split": "hw_shift",
+  "program": "LockBit"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/LockBit/LockBit-20231025_11-39-54",
+  "split": "hw_shift",
+  "program": "LockBit"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/LockBit/LockBit-20231025_11-46-14",
+  "split": "hw_shift",
+  "program": "LockBit"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/LockBit/LockBit-20231025_11-52-23",
   "split": "hw_shift",
   "program": "LockBit"
  },
@@ -351,6 +801,16 @@
  },
  {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Office/Office-20231004_14-42-51",
+  "split": "hw_shift",
+  "program": "Office"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Office/Office-20231004_14-49-38",
+  "split": "hw_shift",
+  "program": "Office"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Office/Office-20231004_14-55-47",
   "split": "hw_shift",
   "program": "Office"
  },
@@ -370,7 +830,22 @@
   "program": "Office"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Office/Office-20231005_14-11-06",
+  "split": "hw_shift",
+  "program": "Office"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Office/Office-20231005_14-16-49",
+  "split": "hw_shift",
+  "program": "Office"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Office/Office-20231005_14-23-13",
+  "split": "hw_shift",
+  "program": "Office"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Office/Office-20231005_14-30-08",
   "split": "hw_shift",
   "program": "Office"
  },
@@ -380,7 +855,17 @@
   "program": "REvil"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/REvil/REvil-20231012_11-14-49",
+  "split": "hw_shift",
+  "program": "REvil"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/REvil/REvil-20231012_11-20-46",
+  "split": "hw_shift",
+  "program": "REvil"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/REvil/REvil-20231012_11-26-41",
   "split": "hw_shift",
   "program": "REvil"
  },
@@ -395,9 +880,29 @@
   "program": "REvil"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/REvil/REvil-20231012_11-44-37",
+  "split": "hw_shift",
+  "program": "REvil"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/REvil/REvil-20231012_11-50-36",
   "split": "hw_shift",
   "program": "REvil"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/REvil/REvil-20231012_11-56-55",
+  "split": "hw_shift",
+  "program": "REvil"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/REvil/REvil-20231012_12-02-52",
+  "split": "hw_shift",
+  "program": "REvil"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Ryuk/Ryuk-20231011_13-50-24",
+  "split": "hw_shift",
+  "program": "Ryuk"
  },
  {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Ryuk/Ryuk-20231011_13-56-41",
@@ -410,7 +915,22 @@
   "program": "Ryuk"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Ryuk/Ryuk-20231011_14-08-39",
+  "split": "hw_shift",
+  "program": "Ryuk"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Ryuk/Ryuk-20231011_14-15-01",
+  "split": "hw_shift",
+  "program": "Ryuk"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Ryuk/Ryuk-20231011_14-22-18",
+  "split": "hw_shift",
+  "program": "Ryuk"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Ryuk/Ryuk-20231011_14-29-12",
   "split": "hw_shift",
   "program": "Ryuk"
  },
@@ -420,9 +940,24 @@
   "program": "Ryuk"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Ryuk/Ryuk-20231011_14-42-10",
+  "split": "hw_shift",
+  "program": "Ryuk"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Ryuk/Ryuk-20231011_14-49-17",
   "split": "hw_shift",
   "program": "Ryuk"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/SDelete/SDelete-20231004_10-59-59",
+  "split": "hw_shift",
+  "program": "SDelete"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/SDelete/SDelete-20231004_11-07-12",
+  "split": "hw_shift",
+  "program": "SDelete"
  },
  {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/SDelete/SDelete-20231004_11-14-13",
@@ -440,7 +975,17 @@
   "program": "SDelete"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/SDelete/SDelete-20231004_11-32-55",
+  "split": "hw_shift",
+  "program": "SDelete"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/SDelete/SDelete-20231004_11-39-07",
+  "split": "hw_shift",
+  "program": "SDelete"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/SDelete/SDelete-20231004_11-44-52",
   "split": "hw_shift",
   "program": "SDelete"
  },
@@ -450,7 +995,22 @@
   "program": "SDelete"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/SDelete/SDelete-20231004_11-56-34",
+  "split": "hw_shift",
+  "program": "SDelete"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/WannaCry/WannaCry-20231005_11-10-49",
+  "split": "hw_shift",
+  "program": "WannaCry"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/WannaCry/WannaCry-20231005_11-18-44",
+  "split": "hw_shift",
+  "program": "WannaCry"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/WannaCry/WannaCry-20231005_11-24-40",
   "split": "hw_shift",
   "program": "WannaCry"
  },
@@ -465,6 +1025,16 @@
   "program": "WannaCry"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/WannaCry/WannaCry-20231005_11-42-55",
+  "split": "hw_shift",
+  "program": "WannaCry"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/WannaCry/WannaCry-20231005_11-48-51",
+  "split": "hw_shift",
+  "program": "WannaCry"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/WannaCry/WannaCry-20231005_11-54-38",
   "split": "hw_shift",
   "program": "WannaCry"
@@ -475,7 +1045,17 @@
   "program": "WannaCry"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/WannaCry/WannaCry-20231005_12-07-01",
+  "split": "hw_shift",
+  "program": "WannaCry"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Zip/Zip-20230711_11-03-59",
+  "split": "hw_shift",
+  "program": "Zip"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Zip/Zip-20230711_11-10-37",
   "split": "hw_shift",
   "program": "Zip"
  },
@@ -490,7 +1070,27 @@
   "program": "Zip"
  },
  {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Zip/Zip-20230711_11-33-20",
+  "split": "hw_shift",
+  "program": "Zip"
+ },
+ {
   "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Zip/Zip-20230711_11-39-49",
+  "split": "hw_shift",
+  "program": "Zip"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Zip/Zip-20230711_11-45-43",
+  "split": "hw_shift",
+  "program": "Zip"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Zip/Zip-20230711_11-51-06",
+  "split": "hw_shift",
+  "program": "Zip"
+ },
+ {
+  "run": "dataset/original/celeron-gen6/ddr4-1600-8g/Zip/Zip-20230711_11-57-07",
   "split": "hw_shift",
   "program": "Zip"
  },
@@ -500,7 +1100,22 @@
   "program": "Zip"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/AESCrypt/AESCrypt-20230524_20-18-05",
+  "split": "train_a",
+  "program": "AESCrypt"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/AESCrypt/AESCrypt-20230524_20-25-28",
+  "split": "train_a",
+  "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/AESCrypt/AESCrypt-20230524_20-32-05",
+  "split": "train_a",
+  "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/AESCrypt/AESCrypt-20230524_20-40-05",
   "split": "train_a",
   "program": "AESCrypt"
  },
@@ -511,6 +1126,11 @@
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/AESCrypt/AESCrypt-20230524_20-53-12",
+  "split": "train_a",
+  "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/AESCrypt/AESCrypt-20230524_20-59-49",
   "split": "train_a",
   "program": "AESCrypt"
  },
@@ -530,12 +1150,32 @@
   "program": "AESCrypt"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Conti/Conti-20230426_23-09-03",
+  "split": "train_a",
+  "program": "Conti"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Conti/Conti-20230426_23-17-20",
+  "split": "train_a",
+  "program": "Conti"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Conti/Conti-20230426_23-24-52",
+  "split": "train_a",
+  "program": "Conti"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Conti/Conti-20230426_23-32-08",
   "split": "train_a",
   "program": "Conti"
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Conti/Conti-20230426_23-47-25",
+  "split": "train_a",
+  "program": "Conti"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Conti/Conti-20230426_23-55-33",
   "split": "train_a",
   "program": "Conti"
  },
@@ -580,12 +1220,32 @@
   "program": "Darkside"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Darkside/Darkside-20230517_20-44-25",
+  "split": "train_a",
+  "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Darkside/Darkside-20230517_20-52-44",
+  "split": "train_a",
+  "program": "Darkside"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Darkside/Darkside-20230517_21-01-25",
   "split": "train_a",
   "program": "Darkside"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Darkside/Darkside-20230517_21-09-24",
+  "split": "train_a",
+  "program": "Darkside"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Darkside/Darkside-20230517_21-17-27",
+  "split": "train_a",
+  "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Darkside/Darkside-20230517_21-24-58",
   "split": "train_a",
   "program": "Darkside"
  },
@@ -605,7 +1265,22 @@
   "program": "Firefox"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Firefox/Firefox-20230428_01-01-40",
+  "split": "train_a",
+  "program": "Firefox"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Firefox/Firefox-20230428_01-10-09",
+  "split": "train_a",
+  "program": "Firefox"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Firefox/Firefox-20230428_01-16-45",
+  "split": "train_a",
+  "program": "Firefox"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Firefox/Firefox-20230428_01-24-17",
   "split": "train_a",
   "program": "Firefox"
  },
@@ -615,9 +1290,24 @@
   "program": "Firefox"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Firefox/Firefox-20230428_01-37-02",
+  "split": "train_a",
+  "program": "Firefox"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Firefox/Firefox-20230428_01-43-33",
   "split": "train_a",
   "program": "Firefox"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Idle/Idle-20230518_22-56-17",
+  "split": "train_a",
+  "program": "Idle"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Idle/Idle-20230518_23-03-12",
+  "split": "train_a",
+  "program": "Idle"
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Idle/Idle-20230518_23-10-22",
@@ -645,9 +1335,24 @@
   "program": "Idle"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Idle/Idle-20230518_23-48-58",
+  "split": "train_a",
+  "program": "Idle"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Idle/Idle-20230518_23-57-09",
   "split": "train_a",
   "program": "Idle"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Idle/Idle-20230519_00-03-53",
+  "split": "train_a",
+  "program": "Idle"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/LockBit/LockBit-20230517_21-35-46",
+  "split": "train_a",
+  "program": "LockBit"
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/LockBit/LockBit-20230517_22-58-59",
@@ -656,6 +1361,11 @@
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/LockBit/LockBit-20230517_23-08-03",
+  "split": "train_a",
+  "program": "LockBit"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/LockBit/LockBit-20230517_23-15-34",
   "split": "train_a",
   "program": "LockBit"
  },
@@ -675,12 +1385,37 @@
   "program": "LockBit"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/LockBit/LockBit-20230517_23-47-13",
+  "split": "train_a",
+  "program": "LockBit"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/LockBit/LockBit-20230517_23-56-14",
+  "split": "train_a",
+  "program": "LockBit"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/LockBit/LockBit-20230518_00-03-50",
   "split": "train_a",
   "program": "LockBit"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Office/Office-20230525_23-11-40",
+  "split": "train_a",
+  "program": "Office"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Office/Office-20230525_23-19-23",
+  "split": "train_a",
+  "program": "Office"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Office/Office-20230525_23-27-31",
+  "split": "train_a",
+  "program": "Office"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Office/Office-20230525_23-41-05",
   "split": "train_a",
   "program": "Office"
  },
@@ -705,12 +1440,22 @@
   "program": "Office"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Office/Office-20230526_00-24-29",
+  "split": "train_a",
+  "program": "Office"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Office/Office-20230526_00-32-14",
   "split": "train_a",
   "program": "Office"
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/REvil/REvil-20230427_23-00-37",
+  "split": "train_a",
+  "program": "REvil"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/REvil/REvil-20230427_23-09-43",
   "split": "train_a",
   "program": "REvil"
  },
@@ -735,7 +1480,22 @@
   "program": "REvil"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/REvil/REvil-20230427_23-56-21",
+  "split": "train_a",
+  "program": "REvil"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/REvil/REvil-20230428_00-04-23",
+  "split": "train_a",
+  "program": "REvil"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/REvil/REvil-20230428_00-12-45",
+  "split": "train_a",
+  "program": "REvil"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/REvil/REvil-20230428_00-20-35",
   "split": "train_a",
   "program": "REvil"
  },
@@ -750,7 +1510,22 @@
   "program": "Ryuk"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Ryuk/Ryuk-20230511_22-40-23",
+  "split": "train_a",
+  "program": "Ryuk"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Ryuk/Ryuk-20230511_22-47-54",
+  "split": "train_a",
+  "program": "Ryuk"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Ryuk/Ryuk-20230511_22-55-58",
+  "split": "train_a",
+  "program": "Ryuk"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Ryuk/Ryuk-20230511_23-03-47",
   "split": "train_a",
   "program": "Ryuk"
  },
@@ -770,6 +1545,21 @@
   "program": "Ryuk"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Ryuk/Ryuk-20230511_23-41-54",
+  "split": "train_a",
+  "program": "Ryuk"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/SDelete/SDelete-20230519_00-20-40",
+  "split": "train_a",
+  "program": "SDelete"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/SDelete/SDelete-20230519_00-27-55",
+  "split": "train_a",
+  "program": "SDelete"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/SDelete/SDelete-20230519_00-38-25",
   "split": "train_a",
   "program": "SDelete"
@@ -781,6 +1571,11 @@
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/SDelete/SDelete-20230519_01-06-03",
+  "split": "train_a",
+  "program": "SDelete"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/SDelete/SDelete-20230519_01-13-32",
   "split": "train_a",
   "program": "SDelete"
  },
@@ -800,12 +1595,27 @@
   "program": "SDelete"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/SDelete/SDelete-20230519_01-41-12",
+  "split": "train_a",
+  "program": "SDelete"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/WannaCry/WannaCry-20230510_21-11-33",
   "split": "train_a",
   "program": "WannaCry"
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/WannaCry/WannaCry-20230510_21-19-00",
+  "split": "train_a",
+  "program": "WannaCry"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/WannaCry/WannaCry-20230510_21-26-55",
+  "split": "train_a",
+  "program": "WannaCry"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/WannaCry/WannaCry-20230510_21-35-10",
   "split": "train_a",
   "program": "WannaCry"
  },
@@ -820,7 +1630,17 @@
   "program": "WannaCry"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/WannaCry/WannaCry-20230510_23-10-00",
+  "split": "train_a",
+  "program": "WannaCry"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/WannaCry/WannaCry-20230510_23-17-56",
+  "split": "train_a",
+  "program": "WannaCry"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/WannaCry/WannaCry-20230510_23-25-48",
   "split": "train_a",
   "program": "WannaCry"
  },
@@ -840,6 +1660,11 @@
   "program": "Zip"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Zip/Zip-20230524_23-43-39",
+  "split": "train_a",
+  "program": "Zip"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Zip/Zip-20230524_23-51-36",
   "split": "train_a",
   "program": "Zip"
@@ -855,7 +1680,22 @@
   "program": "Zip"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Zip/Zip-20230525_22-39-16",
+  "split": "train_a",
+  "program": "Zip"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Zip/Zip-20230525_22-45-38",
+  "split": "train_a",
+  "program": "Zip"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-2133-16g/Zip/Zip-20230525_22-52-52",
+  "split": "train_a",
+  "program": "Zip"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-2133-16g/Zip/Zip-20230525_23-00-32",
   "split": "train_a",
   "program": "Zip"
  },
@@ -880,7 +1720,27 @@
   "program": "AESCrypt"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/AESCrypt/AESCrypt-20221027_20-40-00",
+  "split": "train_b",
+  "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/AESCrypt/AESCrypt-20221027_20-46-13",
+  "split": "train_b",
+  "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/AESCrypt/AESCrypt-20221027_20-52-23",
+  "split": "train_b",
+  "program": "AESCrypt"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/AESCrypt/AESCrypt-20221027_20-58-45",
+  "split": "train_b",
+  "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/AESCrypt/AESCrypt-20221027_21-05-00",
   "split": "train_b",
   "program": "AESCrypt"
  },
@@ -888,6 +1748,16 @@
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/AESCrypt/AESCrypt-20221027_21-11-36",
   "split": "train_b",
   "program": "AESCrypt"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Conti/Conti-20221020_20-12-06",
+  "split": "train_b",
+  "program": "Conti"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Conti/Conti-20221020_20-26-58",
+  "split": "train_b",
+  "program": "Conti"
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Conti/Conti-20221020_20-35-21",
@@ -901,6 +1771,16 @@
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Conti/Conti-20221020_20-50-19",
+  "split": "train_b",
+  "program": "Conti"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Conti/Conti-20221020_20-57-33",
+  "split": "train_b",
+  "program": "Conti"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Conti/Conti-20221020_21-05-29",
   "split": "train_b",
   "program": "Conti"
  },
@@ -920,7 +1800,27 @@
   "program": "Conti"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Darkside/Darkside-20221012_22-30-03",
+  "split": "train_b",
+  "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Darkside/Darkside-20221012_22-37-16",
+  "split": "train_b",
+  "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Darkside/Darkside-20221012_22-43-38",
+  "split": "train_b",
+  "program": "Darkside"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Darkside/Darkside-20221012_22-50-03",
+  "split": "train_b",
+  "program": "Darkside"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Darkside/Darkside-20221012_22-57-07",
   "split": "train_b",
   "program": "Darkside"
  },
@@ -960,6 +1860,11 @@
   "program": "Firefox"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Firefox/Firefox-20221110_20-18-45",
+  "split": "train_b",
+  "program": "Firefox"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Firefox/Firefox-20221110_20-25-01",
   "split": "train_b",
   "program": "Firefox"
@@ -970,7 +1875,17 @@
   "program": "Firefox"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Firefox/Firefox-20221110_20-38-32",
+  "split": "train_b",
+  "program": "Firefox"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Firefox/Firefox-20221110_20-45-21",
+  "split": "train_b",
+  "program": "Firefox"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Firefox/Firefox-20221110_20-52-25",
   "split": "train_b",
   "program": "Firefox"
  },
@@ -980,12 +1895,37 @@
   "program": "Firefox"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Firefox/Firefox-20221110_21-06-41",
+  "split": "train_b",
+  "program": "Firefox"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Idle/Idle-20221110_22-45-33",
+  "split": "train_b",
+  "program": "Idle"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Idle/Idle-20221110_22-51-56",
   "split": "train_b",
   "program": "Idle"
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Idle/Idle-20221110_22-58-18",
+  "split": "train_b",
+  "program": "Idle"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Idle/Idle-20221110_23-03-57",
+  "split": "train_b",
+  "program": "Idle"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Idle/Idle-20221110_23-09-40",
+  "split": "train_b",
+  "program": "Idle"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Idle/Idle-20221110_23-15-26",
   "split": "train_b",
   "program": "Idle"
  },
@@ -1010,12 +1950,32 @@
   "program": "Idle"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/LockBit/LockBit-20221013_23-16-47",
+  "split": "train_b",
+  "program": "LockBit"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/LockBit/LockBit-20221013_23-26-43",
+  "split": "train_b",
+  "program": "LockBit"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/LockBit/LockBit-20221013_23-34-53",
+  "split": "train_b",
+  "program": "LockBit"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/LockBit/LockBit-20221013_23-43-38",
   "split": "train_b",
   "program": "LockBit"
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/LockBit/LockBit-20221013_23-52-45",
+  "split": "train_b",
+  "program": "LockBit"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/LockBit/LockBit-20221014_00-06-15",
   "split": "train_b",
   "program": "LockBit"
  },
@@ -1045,6 +2005,16 @@
   "program": "Office"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Office/Office-20221109_22-49-46",
+  "split": "train_b",
+  "program": "Office"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Office/Office-20221109_23-02-11",
+  "split": "train_b",
+  "program": "Office"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Office/Office-20221109_23-09-20",
   "split": "train_b",
   "program": "Office"
@@ -1065,12 +2035,32 @@
   "program": "Office"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Office/Office-20221109_23-35-21",
+  "split": "train_b",
+  "program": "Office"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Office/Office-20221109_23-43-59",
+  "split": "train_b",
+  "program": "Office"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Office/Office-20221109_23-50-45",
   "split": "train_b",
   "program": "Office"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/REvil/REvil-20221019_20-04-51",
+  "split": "train_b",
+  "program": "REvil"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/REvil/REvil-20221019_20-11-53",
+  "split": "train_b",
+  "program": "REvil"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/REvil/REvil-20221019_20-18-34",
   "split": "train_b",
   "program": "REvil"
  },
@@ -1090,12 +2080,22 @@
   "program": "REvil"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/REvil/REvil-20221019_20-44-49",
+  "split": "train_b",
+  "program": "REvil"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/REvil/REvil-20221019_20-51-10",
   "split": "train_b",
   "program": "REvil"
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/REvil/REvil-20221019_20-57-57",
+  "split": "train_b",
+  "program": "REvil"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/REvil/REvil-20221019_21-04-56",
   "split": "train_b",
   "program": "REvil"
  },
@@ -1115,12 +2115,32 @@
   "program": "Ryuk"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Ryuk/Ryuk-20221013_20-36-16",
+  "split": "train_b",
+  "program": "Ryuk"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Ryuk/Ryuk-20221013_20-43-14",
   "split": "train_b",
   "program": "Ryuk"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Ryuk/Ryuk-20221013_20-49-45",
+  "split": "train_b",
+  "program": "Ryuk"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Ryuk/Ryuk-20221013_20-56-26",
+  "split": "train_b",
+  "program": "Ryuk"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Ryuk/Ryuk-20221013_21-02-52",
+  "split": "train_b",
+  "program": "Ryuk"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Ryuk/Ryuk-20221013_21-12-59",
   "split": "train_b",
   "program": "Ryuk"
  },
@@ -1135,7 +2155,22 @@
   "program": "SDelete"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/SDelete/SDelete-20221109_20-28-33",
+  "split": "train_b",
+  "program": "SDelete"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/SDelete/SDelete-20221109_20-37-04",
+  "split": "train_b",
+  "program": "SDelete"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/SDelete/SDelete-20221109_20-46-24",
+  "split": "train_b",
+  "program": "SDelete"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/SDelete/SDelete-20221109_20-56-16",
   "split": "train_b",
   "program": "SDelete"
  },
@@ -1155,12 +2190,32 @@
   "program": "SDelete"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/SDelete/SDelete-20221109_22-04-48",
+  "split": "train_b",
+  "program": "SDelete"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/SDelete/SDelete-20221109_22-15-19",
   "split": "train_b",
   "program": "SDelete"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/WannaCry/WannaCry-20221012_20-23-00",
+  "split": "train_b",
+  "program": "WannaCry"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/WannaCry/WannaCry-20221012_20-32-03",
+  "split": "train_b",
+  "program": "WannaCry"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/WannaCry/WannaCry-20221012_20-40-32",
+  "split": "train_b",
+  "program": "WannaCry"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/WannaCry/WannaCry-20221012_20-50-05",
   "split": "train_b",
   "program": "WannaCry"
  },
@@ -1171,6 +2226,11 @@
  },
  {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/WannaCry/WannaCry-20221012_21-26-35",
+  "split": "train_b",
+  "program": "WannaCry"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/WannaCry/WannaCry-20221012_21-36-17",
   "split": "train_b",
   "program": "WannaCry"
  },
@@ -1205,6 +2265,11 @@
   "program": "Zip"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Zip/Zip-20221102_20-36-43",
+  "split": "train_b",
+  "program": "Zip"
+ },
+ {
   "run": "dataset/original/i3-gen12/ddr4-3200-8g/Zip/Zip-20221102_20-53-12",
   "split": "train_b",
   "program": "Zip"
@@ -1220,6 +2285,21 @@
   "program": "Zip"
  },
  {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Zip/Zip-20221102_21-31-56",
+  "split": "train_b",
+  "program": "Zip"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Zip/Zip-20221102_21-43-47",
+  "split": "train_b",
+  "program": "Zip"
+ },
+ {
+  "run": "dataset/original/i3-gen12/ddr4-3200-8g/Zip/Zip-20221102_21-53-40",
+  "split": "train_b",
+  "program": "Zip"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_01/Conti_01-20240227_02-29-37",
   "split": "variants",
   "program": "Conti_01"
@@ -1230,7 +2310,32 @@
   "program": "Conti_01"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_01/Conti_01-20240227_02-46-22",
+  "split": "variants",
+  "program": "Conti_01"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_01/Conti_01-20240227_02-53-38",
+  "split": "variants",
+  "program": "Conti_01"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_01/Conti_01-20240227_03-01-23",
+  "split": "variants",
+  "program": "Conti_01"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_01/Conti_01-20240227_03-08-27",
+  "split": "variants",
+  "program": "Conti_01"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_01/Conti_01-20240227_03-15-24",
+  "split": "variants",
+  "program": "Conti_01"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_01/Conti_01-20240227_03-22-34",
   "split": "variants",
   "program": "Conti_01"
  },
@@ -1240,7 +2345,22 @@
   "program": "Conti_01"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_01/Conti_01-20240227_03-36-49",
+  "split": "variants",
+  "program": "Conti_01"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_02/Conti_02-20240227_19-31-09",
+  "split": "variants",
+  "program": "Conti_02"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_02/Conti_02-20240227_19-37-24",
+  "split": "variants",
+  "program": "Conti_02"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_02/Conti_02-20240227_19-43-14",
   "split": "variants",
   "program": "Conti_02"
  },
@@ -1250,7 +2370,17 @@
   "program": "Conti_02"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_02/Conti_02-20240227_19-55-58",
+  "split": "variants",
+  "program": "Conti_02"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_02/Conti_02-20240227_20-02-45",
+  "split": "variants",
+  "program": "Conti_02"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_02/Conti_02-20240227_20-09-54",
   "split": "variants",
   "program": "Conti_02"
  },
@@ -1260,12 +2390,52 @@
   "program": "Conti_02"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_02/Conti_02-20240227_20-23-31",
+  "split": "variants",
+  "program": "Conti_02"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_02/Conti_02-20240227_20-30-26",
+  "split": "variants",
+  "program": "Conti_02"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_03/Conti_03-20240227_20-41-59",
   "split": "variants",
   "program": "Conti_03"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_03/Conti_03-20240227_20-48-26",
+  "split": "variants",
+  "program": "Conti_03"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_03/Conti_03-20240227_20-53-58",
+  "split": "variants",
+  "program": "Conti_03"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_03/Conti_03-20240227_20-59-50",
+  "split": "variants",
+  "program": "Conti_03"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_03/Conti_03-20240227_21-08-44",
+  "split": "variants",
+  "program": "Conti_03"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_03/Conti_03-20240227_21-16-45",
+  "split": "variants",
+  "program": "Conti_03"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_03/Conti_03-20240227_21-27-45",
+  "split": "variants",
+  "program": "Conti_03"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_03/Conti_03-20240227_21-33-31",
   "split": "variants",
   "program": "Conti_03"
  },
@@ -1285,6 +2455,11 @@
   "program": "Conti_04"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_04/Conti_04-20240227_23-23-12",
+  "split": "variants",
+  "program": "Conti_04"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_04/Conti_04-20240227_23-29-38",
   "split": "variants",
   "program": "Conti_04"
@@ -1295,9 +2470,49 @@
   "program": "Conti_04"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_04/Conti_04-20240227_23-44-58",
+  "split": "variants",
+  "program": "Conti_04"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_04/Conti_04-20240227_23-50-40",
   "split": "variants",
   "program": "Conti_04"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_04/Conti_04-20240227_23-58-17",
+  "split": "variants",
+  "program": "Conti_04"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_04/Conti_04-20240228_00-04-10",
+  "split": "variants",
+  "program": "Conti_04"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_04/Conti_04-20240228_00-11-54",
+  "split": "variants",
+  "program": "Conti_04"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_04/Conti_04-20240228_00-19-24",
+  "split": "variants",
+  "program": "Conti_04"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_05/Conti_05-20240228_00-32-18",
+  "split": "variants",
+  "program": "Conti_05"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_05/Conti_05-20240228_00-38-49",
+  "split": "variants",
+  "program": "Conti_05"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_05/Conti_05-20240228_00-47-54",
+  "split": "variants",
+  "program": "Conti_05"
  },
  {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_05/Conti_05-20240228_00-54-09",
@@ -1306,6 +2521,21 @@
  },
  {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_05/Conti_05-20240228_01-12-02",
+  "split": "variants",
+  "program": "Conti_05"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_05/Conti_05-20240228_01-20-37",
+  "split": "variants",
+  "program": "Conti_05"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_05/Conti_05-20240228_01-28-33",
+  "split": "variants",
+  "program": "Conti_05"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_05/Conti_05-20240228_01-44-17",
   "split": "variants",
   "program": "Conti_05"
  },
@@ -1325,7 +2555,17 @@
   "program": "Conti_06"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_06/Conti_06-20240228_18-59-58",
+  "split": "variants",
+  "program": "Conti_06"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_06/Conti_06-20240228_19-09-13",
+  "split": "variants",
+  "program": "Conti_06"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_06/Conti_06-20240228_19-23-21",
   "split": "variants",
   "program": "Conti_06"
  },
@@ -1335,12 +2575,47 @@
   "program": "Conti_06"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_06/Conti_06-20240228_19-37-04",
+  "split": "variants",
+  "program": "Conti_06"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_06/Conti_06-20240228_19-43-03",
+  "split": "variants",
+  "program": "Conti_06"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_06/Conti_06-20240228_19-50-01",
+  "split": "variants",
+  "program": "Conti_06"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_06/Conti_06-20240228_19-57-13",
+  "split": "variants",
+  "program": "Conti_06"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_06/Conti_06-20240228_20-04-16",
   "split": "variants",
   "program": "Conti_06"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_07/Conti_07-20240229_22-23-59",
+  "split": "variants",
+  "program": "Conti_07"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_07/Conti_07-20240229_22-30-39",
+  "split": "variants",
+  "program": "Conti_07"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_07/Conti_07-20240229_22-36-27",
+  "split": "variants",
+  "program": "Conti_07"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_07/Conti_07-20240229_22-44-25",
   "split": "variants",
   "program": "Conti_07"
  },
@@ -1350,12 +2625,27 @@
   "program": "Conti_07"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_07/Conti_07-20240229_22-56-54",
+  "split": "variants",
+  "program": "Conti_07"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_07/Conti_07-20240229_23-05-31",
   "split": "variants",
   "program": "Conti_07"
  },
  {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_07/Conti_07-20240229_23-14-13",
+  "split": "variants",
+  "program": "Conti_07"
+ },
+ {
   "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_07/Conti_07-20240229_23-21-11",
+  "split": "variants",
+  "program": "Conti_07"
+ },
+ {
+  "run": "dataset/variants/i3-gen12/ddr4-2133-16g/Conti_07/Conti_07-20240229_23-28-45",
   "split": "variants",
   "program": "Conti_07"
  }
