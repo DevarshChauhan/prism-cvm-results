@@ -1,0 +1,41 @@
+{
+ "runs": {
+  "mixed": {
+   "host_req": 1504683,
+   "guest_req": 1570916,
+   "guest_matched_by_host": 0.916681732186826,
+   "host_bytes": 183254761472,
+   "guest_bytes": 183254761472,
+   "window_corr": {
+    "w_seq": 0.9544803843993608,
+    "w_reuse": null,
+    "w_size_cv": 0.955971455838117
+   }
+  }
+ },
+ "workload_id_host_features": [
+  NaN,
+  NaN,
+  0
+ ],
+ "transfer_mixed": {
+  "alert_segments": 0,
+  "segments": 2312,
+  "alarm_episodes": 0,
+  "hours": 3.0078888888888895,
+  "episodes_per_hour": 0.0
+ },
+ "transfer_by_workload": {},
+ "overhead_s": {
+  "off": [
+   0.5147709051767985,
+   0.0013952611641045146,
+   3
+  ],
+  "on": [
+   0.5145502885182699,
+   0.001300814714790441,
+   3
+  ]
+ }
+}

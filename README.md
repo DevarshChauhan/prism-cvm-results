@@ -25,6 +25,8 @@ results/cvm_snp/, results/cvm_tdx/
 results/host_collector/
   summary_host.json              host versus guest block view, workload identification, transfer test, overhead
   prism_out.tgz                  raw host-side and guest-side block logs from the KVM host (benign workloads only)
+results/host_collector_3h/
+  summary_host.json, prism_out.tgz   a further 3-hour mixed benign session on the KVM host (summary and raw logs)
 ```
 
 ## Splits and seeds
@@ -44,7 +46,7 @@ The 530 runs are every run available in five RanSMAP configurations: ten per pro
 | Table 9 and Fig. 3 (F1) | `results/ransmap/f1_t300.json`, `f1_t48.json` |
 | Fig. 4 and Table 10 (real CVMs) | `results/cvm_snp/summary_v2.json`, `results/cvm_tdx/summary_v2.json` |
 | Table 11 (noise and attacker) | `results/ransmap/leak_t48.json` |
-| Table 12 and host-collector results | `results/host_collector/summary_host.json` |
+| Table 12 and host-collector results | `results/host_collector/summary_host.json`, `results/host_collector_3h/summary_host.json` |
 | Any AUROC or alarm count, recomputed independently | `results/ransmap/predictions_main.csv.gz` |
 
 Feature groups: `storage`, `storage+loc`, `storage+mem`, `storage+loc+mem`, `memory`. Tests: `test_iid` (same hardware), `test_hw` (new hardware), `test_mix` (ransomware with benign applications), `test_variant` (Conti variants). Alarm rules: `slideKofN` (alarm when K of the last N segments alert) and `cum3` (3 alerts counted from the start of the run).
