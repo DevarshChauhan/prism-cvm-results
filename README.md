@@ -1,6 +1,6 @@
 # Results: Host-Side Ransomware Detection for AMD SEV-SNP and Intel TDX Confidential Virtual Machines Using Block I/O Request Metadata
 
-Author: Chauhan Devarsh, Department of Information Technology, Shantilal Shah Engineering College, Bhavnagar, India.
+Author: Devarsh Rajendra Chauhan, Department of Information Technology, Shantilal Shah Engineering College, Bhavnagar, India.
 
 This repository holds the results and raw logs behind every number, table and figure of the paper, so they can be checked independently. It does not contain the RanSMAP dataset or features derived from it: RanSMAP is licensed CC BY-ND 4.0 by its authors (https://github.com/manabu-hirano/RanSMAP).
 
